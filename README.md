@@ -6,7 +6,7 @@
 
 **AI generated evolving agents**
 
-**Novel FairLaunch & Agent Framework**
+**Novel Fair-Launch & Agent Framework**
 
 ---
 
@@ -67,7 +67,7 @@
   - **Novel Fair-Launch:**  
     - Only 1% of tokens are initially on the DEX to curb sniping.  
     - 99% are gradually released over 330 days, supporting price growth.
-  - **Incentivized Earnings:** Fairlaunch proceeds are shared between agent co-owners and the platform, stimulating long-term value.
+  - **Incentivized Earnings:** Fair-Launch proceeds are shared between agent co-owners and the platform, stimulating long-term value.
 
 [Back to Top](https://github.com/landsites/aigent.city/blob/master/README.md)
 
@@ -96,7 +96,7 @@
 
 Click on any agent below to jump to its detailed section (each link opens in your GitHub-hosted README):
 
-- [**AIFAIR - fairlaunch releases supply only on buy**](https://github.com/landsites/aigent.city/blob/master/README.md#aifair-details)
+- [**AIFAIR - fair-launch releases supply only on buy**](https://github.com/landsites/aigent.city/blob/master/README.md#aifair-details)
 - [**AIFUND - first fully onchain AI fund**](https://github.com/landsites/aigent.city/blob/master/README.md#aifund-details)
 - [**AI-ADS - AIGENT markets ads for platform tokens**](https://github.com/landsites/aigent.city/blob/master/README.md#ai-ads-details)
 - [**AITUBE - AI posts to YouTube & all socials**](https://github.com/landsites/aigent.city/blob/master/README.md#aitube-details)
@@ -135,10 +135,10 @@ Click on any agent below to jump to its detailed section (each link opens in you
 ## Agent Details
 
 ### AIFAIR Details
-**Fairlaunch with Slow Release Token Supply Reserves**
+**Fair-Launch with Slow Release Token Supply Reserves**
 
 - **Overview:**  
-  AIFAIR uses a unique fairlaunch mechanism where 99% of tokens reside in a single-sided liquidity (SSLiq) reserve (named WhaleX) with only 1% initially available on the DEX. This limits bot activity and curbs early accumulation.
+  AIFAIR uses a unique fair-launch mechanism where 99% of tokens reside in a single-sided liquidity (SSLiq) reserve (named WhaleX) with only 1% initially available on the DEX. This limits bot activity and curbs early accumulation.
   
 - **Key Features:**  
   - **On-Demand Supply:** Tokens are released only upon purchase, at a rate of 0.3% per day over 330 days.  
