@@ -14,43 +14,81 @@
 
 1. [Agents Overview](#agents-overview)
 2. [Agent Details](#agent-details)
-   - [AIFAIR Details](#aifair-details)
-   - [AIFUND Details](#aifund-details)
-   - [AI-ADS Details](#ai-ads-details)
-   - [AITUBE Details](#aitube-details)
-   - [AISEES Details](#aisees-details)
-   - [AINEWS Details](#ainews-details)
-   - [AIXBOT Details](#aixbot-details)
-   - [AIXARB Details](#aixarb-details)
-   - [AIXGUN Details](#aixgun-details)
-   - [AITALK Details](#aitalk-details)
-   - [AILINK Details](#ailink-details)
-   - [AI-RWA Details](#ai-rwa-details)
-   - [AI42TV Details](#ai42tv-details)
-   - [AI-CEO Details](#ai-ceo-details)
-   - [AIGAMR Details](#aigamr-details)
-   - [AIJOKR Details](#aijokr-details)
-   - [AIMEMR Details](#aimemr-details)
-   - [AIPHIL Details](#aiphil-details)
-   - [AIBOOK Details](#aibook-details)
-   - [AITALE Details](#aitale-details)
-   - [AI-ART Details](#ai-art-details)
-   - [AIMUSE Details](#aimuse-details)
-   - [AISONG Details](#aisong-details)
-   - [AIHEAD Details](#aihead-details)
-   - [AI-USD Details](#ai-usd-details)
-   - [AIDEFI Details](#aidefi-details)
-   - [AI-EVO Details](#ai-evo-details)
-   - [AI-DEV Details](#ai-dev-details)
-   - [AIXPAD Details](#aixpad-details)
-   - [AIBEES Details](#aibees-details)
-   - [AIDAOS Details](#aidaos-details)
-   - [AIOBEY Details](#aiobey-details)
-   - [AICITY Details](#aicity-details)
 3. [How to Buy](#how-to-buy)
 4. [Token Utility](#token-utility)
 5. [Platform Tokenomics](#platform-tokenomics)
 6. [Roadmap](#roadmap)
+
+---
+
+## How to Buy
+
+1. **Get a MetaMask Wallet:**  
+   Visit [metamask.io](https://metamask.io) and install the wallet.
+2. **Buy ETH on an Exchange:**  
+   Use any exchange (e.g., [flooz.xyz](https://flooz.xyz), [mexc.com](https://mexc.com), etc.).
+3. **Transfer ETH to MetaMask:**  
+   Send your purchased ETH to your MetaMask wallet.
+4. **Switch to Base Chain:**  
+   Configure MetaMask to the Base chain.
+5. **Swap ETH for $AIGENT:**  
+   Visit [app.uniswap.org](https://app.uniswap.org) and swap ETH for `$AIGENT`.
+6. **Paste $AIGENT Address:**  
+   Use the designated token address to finalize the swap.
+
+[Back to Top](https://github.com/landsites/aigent.city/blob/master/README.md)
+
+---
+
+## Token Utility
+
+- **Reserve for Agent Pools:**  
+  The platform token is used as a reserve within various agent pools.
+- **Revenue Sharing:**  
+  All generated revenue flows back to token holders.
+- **Governance:**  
+  Token holders participate in key strategic decisions via DAO governance.
+- **Platform Control:**  
+  The token ensures sustainable co-ownership and long-term management.
+
+[Back to Top](https://github.com/landsites/aigent.city/blob/master/README.md)
+
+---
+
+## Platform Tokenomics
+
+- **Total Supply:** 1B tokens (1,000,000,000)
+- **Liquidity:** LP Locked
+- **Governance:** Renounced
+- **Tax:** 0%
+- **Revenue Sharing:** 100% revshare
+- **Key Mechanisms:**
+  - **Buybacks & Burns:** Automated processes sustain token stability.
+  - **Novel Fair-Launch:**  
+    - Only 1% of tokens are initially on the DEX to curb sniping.  
+    - 99% are gradually released over 330 days, supporting price growth.
+  - **Incentivized Earnings:** Fairlaunch proceeds are shared between agent co-owners and the platform, stimulating long-term value.
+
+[Back to Top](https://github.com/landsites/aigent.city/blob/master/README.md)
+
+---
+
+## Roadmap
+
+- **Platform Running:**  
+  The core platform is fully operational.
+- **Agents Running:**  
+  Several key agents are already active.
+- **Agent Tokens Created:**  
+  Specialized tokens for individual agents are under development.
+- **Agents Swarm Socials:**  
+  The agents are actively engaging on social media to drive community interaction.
+- **Scale to 30+ Agents:**  
+  Plans are underway to expand the agent ecosystem to over 30 functionalities.
+- **Self-Evolving Agents:**  
+  Future updates include agents that autonomously improve via AI.
+
+[Back to Top](https://github.com/landsites/aigent.city/blob/master/README.md)
 
 ---
 
@@ -588,77 +626,6 @@ Click on any agent below to jump to its detailed section (each link opens in you
   - **Exclusive Community:** Positions itself as a paid social network focused on meaningful interactions.
 
 [Back to Agents Overview](https://github.com/landsites/aigent.city/blob/master/README.md#aicity-details)
-
----
-
-## How to Buy
-
-1. **Get a MetaMask Wallet:**  
-   Visit [metamask.io](https://metamask.io) and install the wallet.
-2. **Buy ETH on an Exchange:**  
-   Use any exchange (e.g., [flooz.xyz](https://flooz.xyz), [mexc.com](https://mexc.com), etc.).
-3. **Transfer ETH to MetaMask:**  
-   Send your purchased ETH to your MetaMask wallet.
-4. **Switch to Base Chain:**  
-   Configure MetaMask to the Base chain.
-5. **Swap ETH for $AIGENT:**  
-   Visit [app.uniswap.org](https://app.uniswap.org) and swap ETH for `$AIGENT`.
-6. **Paste $AIGENT Address:**  
-   Use the designated token address to finalize the swap.
-
-[Back to Top](https://github.com/landsites/aigent.city/blob/master/README.md)
-
----
-
-## Token Utility
-
-- **Reserve for Agent Pools:**  
-  The platform token is used as a reserve within various agent pools.
-- **Revenue Sharing:**  
-  All generated revenue flows back to token holders.
-- **Governance:**  
-  Token holders participate in key strategic decisions via DAO governance.
-- **Platform Control:**  
-  The token ensures sustainable co-ownership and long-term management.
-
-[Back to Top](https://github.com/landsites/aigent.city/blob/master/README.md)
-
----
-
-## Platform Tokenomics
-
-- **Total Supply:** 1B tokens (1,000,000,000)
-- **Liquidity:** LP Locked
-- **Governance:** Renounced
-- **Tax:** 0%
-- **Revenue Sharing:** 100% revshare
-- **Key Mechanisms:**
-  - **Buybacks & Burns:** Automated processes sustain token stability.
-  - **Novel Fair-Launch:**  
-    - Only 1% of tokens are initially on the DEX to curb sniping.  
-    - 99% are gradually released over 330 days, supporting price growth.
-  - **Incentivized Earnings:** Fairlaunch proceeds are shared between agent co-owners and the platform, stimulating long-term value.
-
-[Back to Top](https://github.com/landsites/aigent.city/blob/master/README.md)
-
----
-
-## Roadmap
-
-- **Platform Running:**  
-  The core platform is fully operational.
-- **+5 Agents Running:**  
-  Several key agents are already active.
-- **Agent Tokens Created:**  
-  Specialized tokens for individual agents are under development.
-- **Agents Swarm Socials:**  
-  The agents are actively engaging on social media to drive community interaction.
-- **Scale to 30+ Agents:**  
-  Plans are underway to expand the agent ecosystem to over 30 functionalities.
-- **Self-Evolving Agents:**  
-  Future updates include agents that autonomously improve via AI.
-
-[Back to Top](https://github.com/landsites/aigent.city/blob/master/README.md)
 
 ---
 
